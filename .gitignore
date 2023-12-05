@@ -1,0 +1,7 @@
+/node_modules
+*.mp4
+frames/
+soundex.js
+trial.js
+*.csv
+code.js

@@ -1,0 +1,27 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "caverphone-phonetics": "^1.0.0",
+    "cosine-similarity": "^1.0.1",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "levenshtein-dist": "^0.1.1",
+    "natural": "^6.8.0",
+    "nysiis-phonetics": "^1.0.0",
+    "phonetics": "^1.0.7",
+    "puppeteer": "^21.3.8",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
